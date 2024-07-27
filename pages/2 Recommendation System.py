@@ -3,8 +3,8 @@ import function as func
 import numpy as np
 # part 8
 st.set_page_config(layout="wide")
-st.set_option('deprecation.showPyplotGlobalUse', False)
-st.set_option('deprecation.showfileUploaderEncoding', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showfileUploaderEncoding', False)
 
 # Title of the app
 st.title('Recommendation System for Amazon Products')
